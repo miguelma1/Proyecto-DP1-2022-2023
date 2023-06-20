@@ -1,6 +1,7 @@
 # Proyecto Idus Martii
 
 Proyecto realizado por 4 alumnos para la asignatura Diseño y Pruebas I.
+Consiste en la implementación del juego "Idus Martii" a partir de la aplicación PetClinic de Spring.
 
 - Carpeta con las normas y material del juego: https://drive.google.com/drive/folders/124Rk-WeoEuBtyETGUdDXwFyCgm8nv7lW?usp=sharing
 
