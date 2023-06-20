@@ -1,8 +1,6 @@
 package org.springframework.samples.petclinic.achievements;
 
 import java.util.List;
-import java.util.Map;
-
 import javax.validation.Valid;
 
 
@@ -10,12 +8,10 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.data.util.Pair;
-import org.springframework.samples.petclinic.enums.AchievementType;
 import org.springframework.samples.petclinic.player.Player;
 import org.springframework.samples.petclinic.player.PlayerService;
 import org.springframework.samples.petclinic.progress.Progress;
 import org.springframework.samples.petclinic.progress.ProgressService;
-import org.springframework.samples.petclinic.user.User;
 import org.springframework.samples.petclinic.user.UserService;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.core.userdetails.UserDetails;
